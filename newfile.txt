@@ -1,3 +1,5 @@
 "Hello, Let's create a file in a branch and merge it "
 
-Another line added 
+Second line added
+
+Keep adding lines 
