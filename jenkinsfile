@@ -1,3 +1,6 @@
+#Author : Seema Tripathi
+# This is a declarative pipeline to clone the code from github , build the image then push the image to docker hub and deploy the code
+
 pipeline
 {
     agent any 
